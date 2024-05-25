@@ -1,0 +1,392 @@
+(['C:\\Users\\Michael Dinata\\Documents\\Workspace\\Projects\\wc '
+  'tool\\ccwc.py'],
+ ['C:\\Users\\Michael Dinata\\Documents\\Workspace\\Projects\\wc tool'],
+ [],
+ ['C:\\Users\\Michael '
+  'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'C:\\Users\\Michael '
+  'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ {},
+ [],
+ [],
+ False,
+ {},
+ 0,
+ [],
+ [],
+ '3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit '
+ '(AMD64)]',
+ [('ccwc',
+   'C:\\Users\\Michael Dinata\\Documents\\Workspace\\Projects\\wc '
+   'tool\\ccwc.py',
+   'PYSOURCE')],
+ [('tracemalloc',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
+   'PYMODULE')],
+ [('python39.dll',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Michael '
+   'Dinata\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'C:\\Users\\Michael Dinata\\Documents\\Workspace\\Projects\\wc '
+   'tool\\build\\ccwc\\base_library.zip',
+   'DATA')])
